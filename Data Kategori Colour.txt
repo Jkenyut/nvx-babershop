@@ -1,0 +1,21 @@
+ ======== Data Pemesan Colour ========
+ Waktu     =  Tue Jan 07 07:04:37 2020
+ Name      =  satria
+ Number    =  8947297293
+ Address   =  purwokerto
+ Price     =  60000
+ 
+ ======== Data Pemesan Colour ========
+ Waktu     =  Tue Jan 07 08:46:39 2020
+ Name      =  satria n
+ Number    =  90389283
+ Address   =  purwokerto
+ Price     =  60000
+ 
+ ======== Data Pemesan Colour ========
+ Waktu     =  Tue Jan 07 08:47:45 2020
+ Name      =  5
+ Number    =  0997
+ Address   =  purwokerto
+ Price     =  60000
+ 

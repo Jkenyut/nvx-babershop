@@ -1,0 +1,14 @@
+ ======== Data Pemesan Dewasa ========
+ Waktu     =  Tue Jan 07 08:45:44 2020
+ Name      =  aldi
+ Number    =  08122536
+ Address   =  purwokerto
+ Price     =  35000
+ 
+ ======== Data Pemesan Dewasa ========
+ Waktu     =  Tue Jan 07 20:36:13 2020
+ Name      =  satria
+ Number    =  0812296
+ Address   =  comando
+ Price     =  20000
+ 
